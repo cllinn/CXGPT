@@ -1,0 +1,11 @@
+*.txt
+*.png
+*.pt
+*.csv
+*.json
+events.*
+*.md
+.*
+__*
+!.gitignore
+!*.py
